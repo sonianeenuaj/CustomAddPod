@@ -1,0 +1,16 @@
+PODS:
+  - AddNumbers (0.1.0)
+
+DEPENDENCIES:
+  - AddNumbers (from `../`)
+
+EXTERNAL SOURCES:
+  AddNumbers:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AddNumbers: 142e7dd81db805aa170ad557f50a7b95785a040a
+
+PODFILE CHECKSUM: a33fba788418e264879a710c6bfea3deadc6f35c
+
+COCOAPODS: 1.15.2

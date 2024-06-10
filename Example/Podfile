@@ -1,5 +1,7 @@
+
+
 use_frameworks!
-target 'AddNumbers_Tests' do
+target 'AddNumbers' do
   pod 'AddNumbers', :path => '../'
   
   
