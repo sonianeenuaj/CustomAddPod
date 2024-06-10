@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AddNumbers_Tests' do
+  pod 'AddNumbers', :path => '../'
+  
+  
+end
